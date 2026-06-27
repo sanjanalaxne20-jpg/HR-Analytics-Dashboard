@@ -101,10 +101,3 @@ HR-Analytics-Dashboard/
 ```
 
 ---
-
-
-## 📷 Screenshot
-
-<img src="HR Dashboard.png" width="100%">
-
----
