@@ -11,7 +11,6 @@ The dashboard provides insights into employee demographics, attrition patterns, 
 
 ![HR Analytics Dashboard](HR%20Dashboard.png)
 
-> Make sure the image file is uploaded in the repository with the name **HR Dashboard.png**.
 
 ---
 
