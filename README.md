@@ -6,7 +6,7 @@ An interactive HR Analytics Dashboard built using to analyze employee attrition,
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](HR Analytics Dashboard.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ---
 
