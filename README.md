@@ -9,7 +9,7 @@ The dashboard provides insights into employee demographics, attrition patterns, 
 
 ## 📊 Dashboard Preview
 
-![HR Analytics Dashboard](HR%20Dashboard.png)
+![HR Analytics Dashboard](HR Analytics Dashboard.png)
 
 
 ---
