@@ -94,7 +94,7 @@ Employee attrition by:
 ```
 HR-Analytics-Dashboard/
 │
-├── HR Dashboard.png
+├── HR Analytics Dashboard.png
 ├── HR Data.xlsx
 └── README.md
 ```
